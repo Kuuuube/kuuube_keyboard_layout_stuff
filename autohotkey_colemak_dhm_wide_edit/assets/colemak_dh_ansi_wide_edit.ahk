@@ -18,8 +18,8 @@
 SC012::f
 SC013::p
 SC014::b
-SC016::[
-SC015::j
+SC015::[
+SC016::j
 SC017::l
 SC018::u
 SC019::y
@@ -30,7 +30,7 @@ SC01B::'
 SC01F::r
 SC020::s
 SC021::t
-SC022::g
+;SC022::g
 SC023::]
 SC024::m
 SC025::n
@@ -38,10 +38,10 @@ SC026::e
 SC027::i
 SC028::o
 
-SC02c::z
-SC02d::x
-SC02e::c
-;SC02f::d
+;SC02c::z
+;SC02d::x
+;SC02e::c
+SC02f::d
 SC030::v
 SC031::/
 SC032::k
