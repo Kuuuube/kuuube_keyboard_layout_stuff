@@ -7,5 +7,5 @@ Scripts and such for using Colemak DHm Wide R4 Edit. The changes from Colemak DH
 ## Layout
 
 <p align="middle">
-  <img src="https://raw.githubusercontent.com/Kuuuube/kuuube_keyboard_layout_stuff/main/colemak_dhm_wide_edit.png" align="middle"/>
+  <img src="https://raw.githubusercontent.com/Kuuuube/kuuube_keyboard_layout_stuff/main/colemak_dhm_wide_edit/colemak_dhm_wide_edit.png" align="middle"/>
 </p>
