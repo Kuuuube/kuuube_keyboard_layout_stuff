@@ -5,7 +5,7 @@ Currently I don't have any downloads for Canary Wide. I am not using OS remappin
 ## Canary Wide
 
 <p align="middle">
-  <img src="https://raw.githubusercontent.com/Kuuuube/kuuube_keyboard_layout_stuff/main/canary_wide/canary_wide.png" align="middle"/>
+  <img src="canary_wide/canary_wide.png" align="middle"/>
 </p>
 
 Previous alt layouts:
