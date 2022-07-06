@@ -1,11 +1,13 @@
 # Kuuube's keyboad layout stuff
 
-Scripts and such for using Colemak DHm Wide R4 Edit. The changes from Colemak DHm Wide ANSI are:
-- The number row is not split. Splitting the number row just seems unnecessary and typing `=` or `+` is much harder with the split.
-- The bottom row goes `ZXCDV` instead of `XCDVZ`. This keeps the ctrl+z, ctrl+c, and ctrl+x binds in the same spot while shifting ctrl+v by only one key.
+Currently I don't have any downloads for Canary Wide. I am not using OS remapping for it. The original Canary and downloads can be found [on Apsu's repo](https://github.com/Apsu/Canary).
 
-## Layout
+## Canary Wide
 
 <p align="middle">
-  <img src="https://raw.githubusercontent.com/Kuuuube/kuuube_keyboard_layout_stuff/main/colemak_dhm_wide_edit.png" align="middle"/>
+  <img src="https://raw.githubusercontent.com/Kuuuube/kuuube_keyboard_layout_stuff/main/canary_wide/canary_wide.png" align="middle"/>
 </p>
+
+Previous alt layouts:
+
+- [Colemak DHm Wide edit](https://github.com/Kuuuube/kuuube_keyboard_layout_stuff/tree/main/colemak_dhm_wide_edit/README.md)
